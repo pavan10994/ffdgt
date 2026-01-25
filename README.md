@@ -1,4 +1,4 @@
-<div align="centre">
+<div align="center">
 
 # Pavan Kumar Reddy Balpunuri
 <samp>ECONOMICS GRADUATE ⇄ ASPIRING DATA SCIENTIST</samp>
