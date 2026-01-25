@@ -1,4 +1,4 @@
-<div align="center">
+<div align="centre">
 
 # Pavan Kumar Reddy Balpunuri
 <samp>ECONOMICS GRADUATE ⇄ ASPIRING DATA SCIENTIST</samp>
@@ -17,22 +17,20 @@
 <br>
 
 <p align="center" width="600px">
-  <sub>
-    <b>Hi there! 👋</b> I am a fresh graduate with a <b>BA (Hons) in Economics</b> from <br>
-    <b>Sri Venkateswara College, University of Delhi</b>.
-    <br><br>
-    My background in economics gives me a unique edge in <b>statistics</b> and <b>econometrics</b>,<br>which I now apply to solve real-world data problems. Based in <b>Hyderabad</b>, <br>I am actively looking for opportunities as a <b>Data Analyst</b> or <b>Data Scientist</b>.
-  </sub>
+  <b>Hi there! 👋</b> I am a fresh graduate with a <b>BA (Hons) in Economics</b> from <br>
+  <b>Sri Venkateswara College, University of Delhi</b>.
+  <br><br>
+  My background in economics gives me a unique edge in <b>statistics</b> and <b>econometrics</b>, which I now apply to solve real-world data problems. Based in <b>Hyderabad</b>, I am actively looking for opportunities as a <b>Data Analyst</b> or <b>Data Scientist</b>.
 </p>
 
 ---
 
 <h3>🚀 <samp>Current Focus</samp></h3>
-<sub>
-Applying <b>Machine Learning</b> to financial datasets • Building <b>NLP</b> projects • Exploring <b>Finance + AI</b>
-</sub>
+<p>
+Applying <b>Machine Learning</b> to Economics,Business,Financial datasets • Building <b>ML,DL,Data Analytics,NLP</b> projects • Exploring <b>Finance ,Economics,Business+ AI</b>
+</p>
 
-<br><br>
+<br>
 
 <h3>🛠 <samp>Tech Stack</samp></h3>
 
