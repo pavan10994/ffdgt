@@ -1,75 +1,120 @@
 <div align="center">
 
 # Pavan Kumar Reddy Balpunuri
-<samp>ECONOMICS GRADUATE ⇄ ASPIRING DATA SCIENTIST</samp>
-
-<br>
+### Incoming M.S. Data Science Student @ Boston University | Data Scientist | Machine Learning & AI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavan-kumar-reddy-balpunuri-8ab8a5207/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:pavanreddy1094@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-pavanreddy1094@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<br>
-
-<p align="center" width="600px">
-  <b>Hi there! 👋</b> I am a fresh graduate with a <b>BA (Hons) in Economics</b> from <br>
-  <b>Sri Venkateswara College, University of Delhi</b>.
-  <br><br>
-  My background in economics gives me a unique edge in <b>statistics</b> and <b>econometrics</b>, which I now apply to solve real-world data problems. Based in <b>Hyderabad</b>, I am actively looking for opportunities as a <b>Data Analyst</b> or <b>Data Scientist</b>.
 </p>
 
 ---
 
-<h3>🚀 <samp>Current Focus</samp></h3>
-<p>
-Applying <b>Machine Learning</b> to Economics,Business,Financial datasets • Building <b>ML,DL,Data Analytics,NLP</b> projects • Exploring <b>Finance ,Economics,Business+ AI</b>
+## 👋 About Me
+
+I'm an **Incoming Master of Science in Data Science student at Boston University** with a strong foundation in **Economics, Statistics, Machine Learning, and Artificial Intelligence**.
+
+I enjoy building intelligent systems that transform real-world data into actionable insights. My interests span **Machine Learning, Deep Learning, NLP, Data Analytics, LLM Applications, and Business Intelligence**, with a focus on solving problems across finance, business, healthcare, and agriculture.
+
+I'm actively seeking opportunities to collaborate on impactful open-source projects, research, and data-driven solutions.
+
+---
+
+## 🚀 Current Focus
+
+• Machine Learning & Deep Learning
+
+• Large Language Models (LLMs) & NLP
+
+• Data Analytics & Business Intelligence
+
+• MLOps & Model Deployment
+
+• Applied AI for Finance, Economics & Business
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+### Machine Learning & AI
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
+
+### Data Science
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+### Cloud & Tools
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ffdgt&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffdgt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ffdgt&theme=tokyonight&hide_border=true"/>
+</p>
 
-<h3>🛠 <samp>Tech Stack</samp></h3>
+---
 
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+## 🌱 Interests
 
-<br>
+🤖 Artificial Intelligence
 
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue" />
+📈 Data Science
 
-<br>
+🧠 Machine Learning
 
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+💬 Large Language Models
 
-<br>
+📊 Data Analytics
 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+☁️ Cloud Computing
 
-<br><br>
+📚 Research
 
-<img src="https://github-readme-stats.vercel.app/api?username=ffdgt&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffdgt&theme=dark&hide_border=true&layout=compact" height="150" />
+---
 
-<br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ffdgt&theme=dark&hide_border=true" height="150" />
+## 📫 Let's Connect
 
-<br><br>
+Always open to discussing:
 
-![](https://visitcount.itsvg.in/api?id=ffdgt&icon=0&color=0)
+- Data Science
+- AI & Machine Learning
+- Research
+- Open Source
+- Analytics
+- Collaboration
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=ffdgt&icon=5&color=6"/>
+</p>
 
 </div>
