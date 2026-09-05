@@ -1,7 +1,7 @@
 <div align="center">
 
 # Pavan Kumar Reddy Balpunuri
-### Incoming M.S. Data Science Student @ Boston University | Data Scientist | Machine Learning & AI
+### M.S. Data Science Student @ Boston University | Data Scientist | Machine Learning & AI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavan-kumar-reddy-balpunuri-8ab8a5207/">
@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm an **Incoming Master of Science in Data Science student at Boston University** with a strong foundation in **Economics, Statistics, Machine Learning, and Artificial Intelligence**.
+I'm an **Master of Science in Data Science student at Boston University** with a strong foundation in **Economics, Statistics, Machine Learning, and Artificial Intelligence**.
 
 I enjoy building intelligent systems that transform real-world data into actionable insights. My interests span **Machine Learning, Deep Learning, NLP, Data Analytics, LLM Applications, and Business Intelligence**, with a focus on solving problems across finance, business, healthcare, and agriculture.
 
